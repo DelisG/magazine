@@ -1,0 +1,20 @@
+#container-produto{
+    background-color: #e9eae9;
+    display: flex;
+    flex-direction: row;
+    width: 100%
+}
+
+img{
+   height: 300px;
+}
+.botao{
+    padding-botton:0px;
+}
+.card-produto{
+    margin: 1px;
+    padding: 7px;
+    background-color: white;
+    
+
+}
