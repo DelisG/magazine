@@ -1,3 +1,13 @@
+.botao{
+    padding-botton:0px;
+}
+
+.card-produto{
+    margin: 1px;
+    padding: 7px;
+    background-color: white;
+}
+
 #container-produto{
     background-color: #e9eae9;
     display: flex;
@@ -7,14 +17,4 @@
 
 img{
    height: 300px;
-}
-.botao{
-    padding-botton:0px;
-}
-.card-produto{
-    margin: 1px;
-    padding: 7px;
-    background-color: white;
-    
-
 }
