@@ -4,7 +4,7 @@
 
 A Magazine é um website que visa proporcionar uma experiência de compra online intuitiva e agradável para os usuários. Utilizando tecnologias como JavaScript, Node.js, Vite, HTML e CSS, o projeto oferecerá funcionalidades de visualização de produtos, adição ao carrinho, finalização de compras e muito mais.
 
-### 🎬 [Ver projeto no Browser](https://delisg.github.io/magazine/)
+### 🎬 [Ver projeto no Browser](https://magazine-gamma.vercel.app/)
 
 ### Tecnologias Utilizadas
 - JavaScript
